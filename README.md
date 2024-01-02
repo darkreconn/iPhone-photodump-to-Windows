@@ -1,5 +1,5 @@
-Media File Transfer/Backup Script
-
+<b>Media File Transfer/Backup Script</b>
+<hr>
 Overview:
 - This Python script facilitates the seamless transfer of photos & videos from an Apple iPhone's "Internal Storage" to a specified destination folder on your computer. It utilizes the win32com.shell library to interact with the Windows Shell, allowing the script to identify and move image files efficiently.
 
